@@ -12,7 +12,7 @@
     "start": "parcel index.html"
   },
   "author": "Pranav Kapoor",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "babel-plugin-transform-runtime": "~6.23.0",
     "babel-polyfill": "~6.26.0",
